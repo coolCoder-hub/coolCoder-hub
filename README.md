@@ -5,4 +5,4 @@
 - ⚡ Fun fact: Likes coding!?
 
 Scripts:
-
+- https://github.com/coolCoder-hub/Dumb-AI
