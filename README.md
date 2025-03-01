@@ -4,5 +4,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Likes coding!?
 
-Scripts:
+### Scripts:
 - https://github.com/coolCoder-hub/Dumb-AI
